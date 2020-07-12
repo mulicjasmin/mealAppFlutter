@@ -18,8 +18,6 @@ A few resources to get you started if this is your first Flutter project:
 3. Go to your user folder and make sure that setting "show hidden files" is turned on. You will see there ".bash_profile" file. If you are on macOS Catalina or higher you will have ".zprofile" file. Edit the file so that you add 'export PATH="$PATH:[PATH_TO_FLUTTER_GIT_DIRECTORY]/flutter/bin"' at the bottom of your file, and change [PATH_TO_FLUTTER_GIT_DIRECTORY] with the path to flutter tool on your machine. That of course depends on where you dragged on extracted folder 
 (Ex. 'export PATH=/Users/jasminmulic/development/flutter/bin:$PATH). Save the file and open normal terminal app on Mac or Linux. You should run 'flutter doctor' command to get at last something on the screen so to verify you've been successfull in installing Flutter on your machine.
 
-4. 
-
 4. Install Xcode by downloading it from AppStore. Then make sure you can use command-line tools by running command 'sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer' from the command line. Accept licence agreements.
 
 5. Setup iOS simulator, or use real iOS device by refering to the official documentation.
